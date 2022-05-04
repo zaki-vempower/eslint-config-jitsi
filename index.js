@@ -166,7 +166,7 @@ module.exports = {
         ],
         'block-spacing': [ 'error', 'always' ],
         'brace-style': 2,
-        'camelcase': 2,
+        'camelcase': 0,
         'comma-dangle': 2,
         'comma-spacing': 2,
         'comma-style': 2,
@@ -209,7 +209,7 @@ module.exports = {
             }
         ],
         'max-depth': 2,
-        'max-len': [ 'error', 120 ],
+        'max-len': [ 'error', 200 ],
         'max-lines': 0,
         'max-nested-callbacks': 2,
         'max-params': [ 'error', 4 ],
